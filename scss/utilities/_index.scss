@@ -1,0 +1,7 @@
+// Partial imports
+@import '_variables',
+        '_mixins';
+
+* {
+    color: $color-primary;
+}
