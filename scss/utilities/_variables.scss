@@ -8,5 +8,13 @@ $color-col-4: #7ee6fd;
 $color-col-6: #4da2bb;
 $color-col-7: #ec9fa3;
 
+$button-colors: (
+  default: $color-secondary,
+  error: #e4757a,
+  info: #927bc1,
+  success: #63cc82,
+  warning: #fd7856
+);
+
 // Breakpoint
 $break: 768px;
